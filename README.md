@@ -1,4 +1,4 @@
-# 🤖 Atharva Agent v3.2 - Remote Browser Automation System
+# 🤖 Atharva Agent - Remote Browser Automation System
 
 An AI-powered web automation agent with remote browser control capabilities, powered by Google Gemini.
 
